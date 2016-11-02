@@ -4,3 +4,6 @@ F:\VS15_projects\TestOfOnes\TestOfOnes\bin\Debug\TestOfOnes.pdb
 F:\VS15_projects\TestOfOnes\TestOfOnes\obj\Debug\TestOfOnes.csprojResolveAssemblyReference.cache
 F:\VS15_projects\TestOfOnes\TestOfOnes\obj\Debug\TestOfOnes.exe
 F:\VS15_projects\TestOfOnes\TestOfOnes\obj\Debug\TestOfOnes.pdb
+C:\Users\Natalie\Source\Repos\TestsForSoftheme\TestOfOnes\bin\Debug\TestOfOnes.exe.config
+C:\Users\Natalie\Source\Repos\TestsForSoftheme\TestOfOnes\obj\Debug\TestOfOnes.exe
+C:\Users\Natalie\Source\Repos\TestsForSoftheme\TestOfOnes\obj\Debug\TestOfOnes.pdb
