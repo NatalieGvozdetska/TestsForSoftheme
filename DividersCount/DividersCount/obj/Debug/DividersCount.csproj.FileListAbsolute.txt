@@ -1,0 +1,6 @@
+F:\VS15_projects\DividersCount\DividersCount\bin\Debug\DividersCount.exe.config
+F:\VS15_projects\DividersCount\DividersCount\bin\Debug\DividersCount.exe
+F:\VS15_projects\DividersCount\DividersCount\bin\Debug\DividersCount.pdb
+F:\VS15_projects\DividersCount\DividersCount\obj\Debug\DividersCount.csprojResolveAssemblyReference.cache
+F:\VS15_projects\DividersCount\DividersCount\obj\Debug\DividersCount.exe
+F:\VS15_projects\DividersCount\DividersCount\obj\Debug\DividersCount.pdb
